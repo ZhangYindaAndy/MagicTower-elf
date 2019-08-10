@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1468850907 source:e:\magictower\magictower\main.cpp
+	"iostream"
+	"Magictower.h"
+	"string"
+
+1471939348 e:\magictower\magictower\include\magictower.h
+	"string"
+	"cstdio"
+	"iostream"
+	"fstream"
+	"conio.h"
+	"windows.h"
+	"cstdlib"
+	"TMonster.h"
+	"cstring"
+
+1469084182 e:\magictower\magictower\include\tmonster.h
+	"string"
+
+1471939961 source:e:\magictower\magictower\src\magictower.cpp
+	"Magictower.h"
+	"fstream"
+
+1468850907 source:c:\qt\magictower\main.cpp
+	"iostream"
+	"Magictower.h"
+	"string"
+
+1471939348 c:\qt\magictower\include\magictower.h
+	"string"
+	"cstdio"
+	"iostream"
+	"fstream"
+	"conio.h"
+	"windows.h"
+	"cstdlib"
+	"TMonster.h"
+	"cstring"
+
+1469084182 c:\qt\magictower\include\tmonster.h
+	"string"
+
+1472114646 source:c:\qt\magictower\src\magictower.cpp
+	"Magictower.h"
+	"fstream"
+
